@@ -15,7 +15,7 @@ Currently specialized in food service software.
 Preferred tools:
 
 - <img src="https://img.shields.io/badge/Python-white?labelColor=black"> <img src="https://img.shields.io/badge/-Django -- Flask -- FastAPI -- Unittests -grey">
-- <img src="https://img.shields.io/badge/.NET-white?labelColor=black"> <img src="https://img.shields.io/badge/-ASP.NET MVC -- ASP.NET Core -- Entity Framework Core -grey">
+- <img src="https://img.shields.io/badge/.NET-white?labelColor=black"> <img src="https://img.shields.io/badge/-ASP.NET MVC -- ASP.NET Core MVC -- Entity Framework Core -grey">
 - <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black"> <img src="https://img.shields.io/badge/-React -- TypeScript -- jQuery -grey">
 
 - <img src="https://img.shields.io/badge/End_to_End-white?labelColor=black"> <img src="https://img.shields.io/badge/-Cypress -- Selenium -grey">
@@ -28,6 +28,7 @@ Preferred tools:
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
 </div>
 <br>
+
 
 
 
