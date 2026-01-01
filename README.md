@@ -12,6 +12,7 @@ Currently specialized in food service software.
 - Many peripheral drivers integration.
 - Microservices as tax modules, product composition trees, delivery systems integration, report extraction, and many others.
 
+Preferred tools:
 
 - <img src="https://img.shields.io/badge/Python-white?labelColor=black"> <img src="https://img.shields.io/badge/-Django -- Flask -- FastAPI -- Unittests -grey">
 - <img src="https://img.shields.io/badge/.NET-white?labelColor=black"> <img src="https://img.shields.io/badge/-ASP.NET MVC -- ASP.NET Core -- Entity Framework Core -grey">
@@ -27,6 +28,7 @@ Currently specialized in food service software.
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
 </div>
 <br>
+
 
 
 
