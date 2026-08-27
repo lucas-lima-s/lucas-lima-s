@@ -41,24 +41,10 @@ These days I split time between team leadership and building small, opinionated 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lucas-lima-s&show_icons=true&hide_border=true&hide=issues&include_all_commits=true&cache_seconds=86400&theme=github_dark">
-    <img height="165" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=lucas-lima-s&show_icons=true&hide_border=true&hide=issues&include_all_commits=true&cache_seconds=86400&theme=default">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lucas-lima-s&hide_border=true&theme=github-dark">
-    <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=lucas-lima-s&hide_border=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas-lima-s&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&theme=github_dark">
+    <img height="165" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas-lima-s&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&theme=default">
   </picture>
 </div>
-
-## Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[jira-metrics-dashboard](https://github.com/lucas-lima-s/jira-metrics-dashboard)** | Jira → PostgreSQL → Grafana pipeline that turns sprint and release data into delivery-metrics dashboards. | Python |
-| **[uniquedev](https://github.com/lucas-lima-s/uniquedev)** | Self-hosted personal finance app for Open Finance Brasil: bank sync, month projection with committed spend, budgets and investments. | TypeScript |
-| **[claude-skill-codex-crosscheck](https://github.com/lucas-lima-s/claude-skill-codex-crosscheck)** | Claude Code skill that cross-checks plans, diffs and questions against a second AI coding CLI, producing a consensus/divergence report. | Python |
-| **[ez-spell-tracker](https://github.com/lucas-lima-s/ez-spell-tracker)** | Injection-free League of Legends overlay that tracks enemy summoner-spell cooldowns from Riot's local Live Client Data API. | Python |
-| **[pr-audit](https://github.com/lucas-lima-s/pr-audit)** | Multi-agent pull request review for GitHub: parallel reviewers, semantic dedup, and moderated inline comments. | Python |
 
 <div align="center">
   <picture>
